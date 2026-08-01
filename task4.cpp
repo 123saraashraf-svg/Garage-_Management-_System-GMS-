@@ -570,4 +570,4 @@ int main()
 return 0;
 }
 // This code implements a garage management system for Racers and Support Vehicles. It allows users to check in vehicles, view the garage, tune up vehicles, retire vehicles, and search for vehicles by their car number. The data is saved to and loaded from a file named "garage.txt".
-
+//making comments for the code to explain the functionality of each part of the code
