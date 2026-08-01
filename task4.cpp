@@ -573,3 +573,4 @@ return 0;
 //making comments for the code to explain the functionality of each part of the code
 // The code starts by including the necessary libraries and defining the Car class, which has private members for car number, name, age, type, racing team, speed, and capacity. It also has public setters and getters for these members, as well as a display function to print the car's details.
 // The Racer class inherits from the Car class and adds private members for the number of races
+// and number of laps, along with their respective setters and getters. It also has a display function that calls the base class's display function and prints the additional details, as well as a Performance function that calculates the performance of the racer based on speed and capacity.
