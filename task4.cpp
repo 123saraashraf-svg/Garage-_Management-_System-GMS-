@@ -572,3 +572,4 @@ return 0;
 // This code implements a garage management system for Racers and Support Vehicles. It allows users to check in vehicles, view the garage, tune up vehicles, retire vehicles, and search for vehicles by their car number. The data is saved to and loaded from a file named "garage.txt".
 //making comments for the code to explain the functionality of each part of the code
 // The code starts by including the necessary libraries and defining the Car class, which has private members for car number, name, age, type, racing team, speed, and capacity. It also has public setters and getters for these members, as well as a display function to print the car's details.
+// The Racer class inherits from the Car class and adds private members for the number of races
